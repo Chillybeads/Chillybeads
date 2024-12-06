@@ -2,7 +2,7 @@
 - 👀 I’m interested in stocks and applications that simplify life
 - 🌱 I’m currently learning front-end development 
 - 💞️ I’m looking to collaborate on nothing 
-- 📫 Want to reach me, just email
+- 📫 Want to reach me? Just email
 - ⚡ Fun fact: I want to achieve something great
 
 <!---
